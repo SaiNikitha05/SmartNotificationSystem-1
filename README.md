@@ -56,7 +56,6 @@ In the next phase, I plan to:
 2. Compile the Java files under `src/`
 3. Run `Main.java` from your terminal or IDE and follow the console prompts
 
----
 
 ## About Me
 
@@ -64,7 +63,6 @@ I'm Sai Nikitha, and I built this project to get a deeper understanding of objec
 
 📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/sai-nikitha-neerukonda-b67017275/)
 
----
 
 ## 📄 License
 
