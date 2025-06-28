@@ -1,9 +1,10 @@
 # Smart Notification System (Phase 1)
 
-🔔 Notification System – Java Project Overview
+## Notification System – Java Project Overview
+
 This project is a basic Java application designed to deepen my understanding of SOLID principles and low-level design (LLD) patterns.
 
-It takes user input: name, preferred communication mode (SMS, WhatsApp, or Email), and the relevant contact info.
+Takes user input: name, preferred communication mode (SMS, WhatsApp, or Email), and the relevant contact info.
 
 Sends a notification message based on the selected mode.
 
@@ -44,12 +45,12 @@ Sends a notification message based on the selected mode.
 ## 🔜 Phase 2 – Coming Soon
 
 In the next phase, I plan to:
-- Connect to real APIs (Twilio for SMS/WhatsApp, SendGrid or Mailgun for Email)
+- Connect to real APIs (for SMS, Whatsapp and Email)
 - Handle configuration through environment files
 
 
 
-## 🧪 How to Run
+## How to Run
 
 1. Clone or download the project
 2. Compile the Java files under `src/`
@@ -57,7 +58,7 @@ In the next phase, I plan to:
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm Sai Nikitha, and I built this project to get a deeper understanding of object-oriented design beyond just syntax. If you’re learning LLD or curious about how SOLID looks in real code, feel free to explore it — and if you have feedback or ideas, I’d love to hear them!
 
